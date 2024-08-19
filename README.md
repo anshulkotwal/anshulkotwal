@@ -1,3 +1,7 @@
+<h1 align="center">Hi 👋, This is Anshul Kotwal</h1>
+<h3 align="center">Coding the Cloud: A Web Developer and Cloud Enthusiast from India</h3>
+<img align="center" alt="Coding" width="100%" margin="10px 0" src="https://media3.giphy.com/media/5e25aUTZPcI94uMZgv/giphy.webp?cid=6c09b9528r83q3s4ln8cxu7d2eno7lvawql9r15o2hlsw4y9&ep=v1_internal_gif_by_id&rid=giphy.webp&ct=g">
+
 # 💫 About Me:
 🔭 I’m currently working on Backend Projects<br>🌱 I’m currently learning Node.js<br>👯 I’m looking to collaborate on Full Stack Projects<br>🤝 I’m looking for help with Project Contributions<br>💬 Ask me about React, JavaScript<br>📫 How to reach me: anshulkotwal12@gmail.com
 
