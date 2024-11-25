@@ -18,9 +18,9 @@
   <a href="https://leetcode.com/u/AnshulKotwal/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/u/AnshulKotwal/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-10.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/u/AnshulKotwal/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-09.gif" alt="jyot" height="200" width="200" /></a>
-   <a href="https://leetcode.com/u/AnshulKotwal/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/dcc-2024-8.png" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/AnshulKotwal/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/dcc-2024-7.png" alt="jyot" height="200" width="200" /></a>
-  <a href="https://leetcode.com/u/AnshulKotwal/" target="_blank"><img align="center" src="[[https://assets.leetcode.com/static_assets/marketing/2024-200.gif](https://leetcode.com/static/images/badges/2024/gif/2024-06.gif)](https://leetcode.com/static/images/badges/2024/gif/2024-06.gif)" alt="jyot" height="200" width="200" /></a>
+   <a href="https://leetcode.com/u/AnshulKotwal/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-08.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/AnshulKotwal/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-07.gif" alt="jyot" height="200" width="200" /></a>
+  <a href="https://leetcode.com/u/AnshulKotwal/" target="_blank"><img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-06.gif" alt="jyot" height="200" width="200" /></a>
   <a href="https://leetcode.com/u/AnshulKotwal/" target="_blank"><img align="center" src="https://assets.leetcode.com/static_assets/others/Introduction_to_Pandas.gif" alt="jyot" height="200" width="200" /></a>
 </p>
 </p>
